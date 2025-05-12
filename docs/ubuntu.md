@@ -1,4 +1,4 @@
-~~# Ubuntu
+# Ubuntu
 
 Here's a well-structured nested list of examples for using the `make` command based on your Makefile, formatted for a `README.md` file on GitHub. This should help the developer community understand how to use the commands effectively.
 
@@ -114,4 +114,4 @@ Here's a well-structured nested list of examples for using the `make` command ba
   make set-keybinding
   ```
 
-This Makefile provides a comprehensive way to manage installations and configurations for various applications. Use the commands as described above to streamline your setup process.~~
+This Makefile provides a comprehensive way to manage installations and configurations for various applications. Use the commands as described above to streamline your setup process.
